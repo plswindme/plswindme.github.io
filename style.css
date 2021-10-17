@@ -1,0 +1,27 @@
+p.notice {
+  color: #d4d4d4;
+  font-family: monospace;
+}
+
+hr {
+  border: solid;
+  background-color: black;
+  border-width: 3px;
+  border-radius: 14px;
+}
+
+body {
+  font-family: monospace;
+}
+
+h1.title {
+  font-size: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+p.body_32384sa {
+  font-size: 19px;
+}
